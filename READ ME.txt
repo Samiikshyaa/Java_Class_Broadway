@@ -1,0 +1,7 @@
+Hello!!
+
+As a beginner, I have done this practice and I am trying to learn Java. 
+
+
+install jdk 17
+install git 2.40
